@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project replicates the reservoir optimization model by Chen et al. (2018) and extends it with drought policy constraints.
+This project replicates the reservoir optimization model by Chen et al. (2018) and extends it with release policy constraints.
 
 ## Requirements
 
